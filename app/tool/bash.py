@@ -4,6 +4,7 @@ from typing import Optional
 
 from app.exceptions import ToolError
 from app.tool.base import BaseTool, CLIResult
+# this is a anotation
 
 
 _BASH_DESCRIPTION = """Execute a bash command in the terminal.
